@@ -68,5 +68,11 @@ function disturbUserGroup(userName, text) {
     var interval = setInterval(watchLastMessageSended, 250);
 }
 
-// disturbUserGroup('+55 11 99999-9999', 'SOME TEXT')
-// disturbUserGroup('Lorem Ipsum', 'SOME TEXT')
+/**
+ * Examples: 
+ * 
+ * disturbUserGroup('+55 11 99999-9999', 'SOME TEXT')
+ * disturbUserGroup('Lorem Ipsum', 'SOME TEXT')
+ * disturbUserGroup('Leonard Albert', 'SOME TEXT')
+ * disturbUserGroup('Leonard', 'SOME TEXT')
+ */
