@@ -27,6 +27,8 @@ Script tosco em JS para envio de mensagens em grupo do WhatsApp Web.
 - Tanto o "ALVO" quanto o "TEXTO" deverão estar dentro de aspas simples.
 </p>
 
+#### 6. Após completar o passo 5 pressione "Enter" no teclado para o script iniciar.
+
 #### Limitações.
 <p>
 - Para o script funcionar corretamente você não pode sair da janela do grupo.<br/>
